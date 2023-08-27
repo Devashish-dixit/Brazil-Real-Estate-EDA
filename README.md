@@ -14,3 +14,5 @@ Welcome to the Real Estate Exploratory Data Analysis (EDA) notebook! This projec
 ## Conclusion
 
 This EDA notebook has successfully provided a comprehensive overview of the real estate dataset. We've mapped property locations, visualized price distributions, explored area variations, and assessed regional price trends. The scatter plot for Paraná state offers valuable insights into the price and area relationship.
+
+**Note**: While GitHub provides a preview of this notebook's content, some visualizations may not render correctly in the preview. For the best experience and a comprehensive understanding of the notebook, I recommend accessing it through Google Colab.Thank you for understanding!
